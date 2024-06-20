@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    body {
+    background-image: url(arqui.jpg);
+    }
+    
+    .formulario {
+       width: 400px;
+       background:#337c8f;
+       padding: 30px;
+       margin:auto;
+       margin-top: 100px;
+       border-radius: 4px;
+       font-family: 'calibri';
+       color: #337c8f;
+       box-shadow: 7px 13px 37px #337c8f;
+    }
+    
+    .formulario h4 {
+       font-size: 22px;
+       margin-bottom: 20px;
+    }
+    
+    .dise {
+        width: 100%;
+        background: #88c1e2;
+        padding: 5px;
+        border-radius: 4px;
+        margin-bottom: 16px;
+        border: 1px solid #000000;
+        font-size: 18px;
+        color: white;
+    }
+    
+    .formulario p {
+        height: 40px;
+        text-align: center;
+        font-size: 18px;
+        line-height: 40px;
+     }
+    
+    .formulario a {
+        color: white;
+        text-decoration: none;
+        }
+    
+    .formulario a:hover {
+        color: white;
+        text-decoration: underline;
+    }
+    
+    .formulario .button {
+        width: 100%;
+        background: #000000;
+        border: none;
+        padding: 12px;
+        color: white;
+        margin: 16px 0;
+        font-size: 16px;
+    }
+
